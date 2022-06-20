@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&show_icons=true&locale=en" alt="DilumBBandara" /></p><hr>
 <img src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
 <img src="https://metrics.lecoq.io/DilumBBandara?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-[![-----------------------------------------------------](	
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]	
 <img src="https://github-profile-trophy.vercel.app/?username=DilumBBandara&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 [![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
