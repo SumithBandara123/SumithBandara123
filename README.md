@@ -41,8 +41,9 @@ Here are some ideas to get you started:
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumBBandara&show_icons=true&locale=en&layout=compact" alt="DilumBBandara" /></p>
+
+<h3 align="left">GitHub Stats:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
 <img src="https://metrics.lecoq.io/DilumBBandara?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
