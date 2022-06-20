@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 <br>
 <a href="https://github.com/DilumBBandara"><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/DU%20(1).gif"></a>
 <br>
-- 🤗 I'm <a href="https://github.com/DilumBBandara">D.M.D.U.</a><a href="https://github.com/DilumBBandara">Bandara</a>.
+`- 🤗 I'm <a href="https://github.com/DilumBBandara">D.M.D.U.</a><a href="https://github.com/DilumBBandara">Bandara</a>.`
 <br>
-- 🌱 I’m currently learning PYTHON,SHELL,PHP,CSS & HTML.
+`- 🌱 I’m currently learning PYTHON,SHELL,PHP,CSS & HTML.`
 <br>
-- ⚡️ I'm Still Student.
+`- ⚡️ I'm Still Student.`
 <br>
-- 💬 Ask me about anything
+`- 💬 Ask me about anything`
 <br>
-- 📫 How to reach me:👉
+`- 📫 How to reach me:👉`
 <br>
-
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumBBandara&show_icons=true&locale=en&layout=compact" alt="DilumBBandara" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&show_icons=true&locale=en" alt="DilumBBandara" /></p><hr>
