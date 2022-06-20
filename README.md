@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/github/stars/DilumBBandara.svg?style=social&label=Star&maxAge=2592000"> </a>
 <br>
 - 🤗 I'm <a href="https://github.com/DilumBBandara">D.M.D.U.</a><a href="https://github.com/DilumBBandara">Bandara</a>.
+<br>
 - 🌱 I’m currently learning PYTHON,SHELL,PHP,CSS & HTML.
+<br>
 - ⚡️ I'm Still Student.
+<br>
 - 💬 Ask me about anything
+<br>
 - 📫 How to reach me:👉
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DilumBBandara&show_icons=true&locale=en&layout=compact" alt="DilumBBandara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&show_icons=true&locale=en" alt="DilumBBandara" /></p><hr>
