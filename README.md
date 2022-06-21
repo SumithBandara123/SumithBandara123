@@ -1,11 +1,4 @@
-### Hi there <a href="https://github.com/DilumBBandara"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25><\a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DilumBBandara&label=Profile%20views&color=0e75b6&style=flat" alt="DilumBBandara" /> </p>
-<a href="https://github.com/DilumBBandara"><img src="https://img.shields.io/github/followers/DilumBBandara?style=social"></a>
-<a href="https://github.com/DilumBBandara"><img src="https://img.shields.io/github/stars/DilumBBandara.svg?style=social&label=Star&maxAge=2592000"> </a>
-<br>
-<a href="https://github.com/DilumBBandara"><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/DU%20(1).gif"></a>
-<br>
 <code>- 🤗 I'm <a href="https://github.com/DilumBBandara">D.M.D.U.</a><a href="https://github.com/DilumBBandara">Bandara</a>.</code>
 <br>
 <code>- 🌱 I’m currently learning PYTHON,SHELL,PHP,CSS & HTML.</code>
@@ -35,7 +28,10 @@
 <br>
 <p align="left"><a href="https://github.com/DilumBBandara"><img src="https://github-readme-stats.vercel.app/api?username=DilumBBandara&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
 <a href="https://github.com/DilumBBandara"><img src="https://metrics.lecoq.io/DilumBBandara?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></a>
-	
+
+<img src="DilumBBandara-2021.stl">	
+
+
 <a href="https://github.com/DilumBBandara"><img src="https://github-profile-trophy.vercel.app/?username=DilumBBandara&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR"></a>
 </p>
 
